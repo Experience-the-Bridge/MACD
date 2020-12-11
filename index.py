@@ -54,7 +54,7 @@ longTerm: int = 0
 uInput1 = (input("Enter the ticker symbol: "))
 tmp1 = uInput1.upper()
 
-uInput2 = (input("Enter the beginning date, format YYYY-MM-DD: "))
+uInput2 = (input("Enter the begining date, format YYYY-MM-DD: "))
 tmp2 = uInput2
 
 uInput3 = (input("Enter the ending date, format YYYY-MM-DD: "))
